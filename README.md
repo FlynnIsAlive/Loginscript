@@ -1,0 +1,2 @@
+# Loginscript
+A simple loginscript.
