@@ -1,3 +1,3 @@
 # Loginscript
-A simple loginscript.
+A simple loginscript using the Silenium Library.
 Only works in Safari Browser.
