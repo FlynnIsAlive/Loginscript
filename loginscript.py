@@ -14,6 +14,7 @@ import string
 def random_char(char_num):
     return ''.join(random.choice(string.ascii_letters) for _ in range(char_num))
 
+#Safari Version
 options = Options()
 options.page_load_strategy = 'normal'
 driver = webdriver.Safari(options=options)
